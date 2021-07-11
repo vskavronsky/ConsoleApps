@@ -1,1 +1,3 @@
-# Initial version of the console game Snake.
+# Console game Snake.
+
+Initial version of the console game Snake.
