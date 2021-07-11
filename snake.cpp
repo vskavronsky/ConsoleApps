@@ -55,7 +55,7 @@ void set_up() {
     step = 1;
 }
 
-//generate numbers from 1 to width or height - 2 (18)
+//generate numbers from 1 to width or height - 2
 int random_number(int number) {
     int limit = number - 2;
 
